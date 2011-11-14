@@ -1,4 +1,4 @@
-#$:.unshift(File.expand_path"../java", File.dirname(__FILE__))
+$:.unshift(File.expand_path"./java", File.dirname(__FILE__))
 require "trinidad"
 module Trinidad
   module Extensions
@@ -6,7 +6,7 @@ module Trinidad
       VERSION = '0.0.1'
     end
 
-    class HornetqExtension < ServerExtension
+    class HornetqServerExtension < ServerExtension
       def configure(tomcat)
         require "netty.jar"
         require "hornetq-core.jar"
@@ -14,6 +14,5 @@ module Trinidad
       end
 
     end
-
   end
 end

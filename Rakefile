@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/nbui/trinidad_hornetq_extension"
   gem.license = "MIT"
   gem.summary = %Q{Adding hornetq jars to trinidad}
-  gem.description = %Q{Adding hornetq jars to trinidad}
+  gem.description = %Q{Getting jars loaded as part of startup}
   gem.email = "nghia11@gmail.com"
   gem.authors = ["nbui"]
   gem.add_dependency 'trinidad'

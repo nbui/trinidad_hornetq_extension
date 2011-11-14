@@ -4,17 +4,11 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="shoulda (v2.11.3, RVM: jruby-1.6.3 [goshposh]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.11, RVM: jruby-1.6.3 [goshposh]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="jeweler (v1.6.4, RVM: jruby-1.6.3 [goshposh]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="jruby-rack (v1.1.1, RVM: jruby-1.6.3 [goshposh]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rcov (v0.9.11, RVM: jruby-1.6.3 [goshposh]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v1.6.1, RVM: jruby-1.6.3 [goshposh]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="git (v1.2.5, RVM: jruby-1.6.3 [goshposh]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="trinidad (v1.2.3, RVM: jruby-1.6.3 [goshposh]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="trinidad_jars (v1.0.1, RVM: jruby-1.6.3 [goshposh]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.0.21, RVM: jruby-1.6.3 [goshposh]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v0.9.2.2, RVM: jruby-1.6.3 [goshposh]) [gem]" level="application" />
   </component>
 </module>
 
